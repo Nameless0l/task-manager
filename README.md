@@ -7,7 +7,7 @@ Une app de gestion de tâches tellement cool que même Chuck Norris l'utilise po
 
 1. 📦 Clone ce repo comme si tu volais le dernier PS5 du magasin :
 ```bash
-git clone [ton-url-repo]
+git clone https://github.com/Nameless0l/task-manager
 ```
 
 2. 🏃‍♂️ Entre dans le dossier (attention, c'est plus grand à l'intérieur qu'à l'extérieur) :
