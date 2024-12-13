@@ -51,4 +51,4 @@ Si tu trouves un bug, c'est pas un bug, c'est une fonctionnalité surprise !
 
 ## 📜 Licence
 
-Ce projet est sous licence "Fais-en ce que tu veux, mais si ça explose, c'est pas notre faute" !
+Ce projet est sous licence "Fais-en ce que tu veux, mais si ça explose, c'est ton pourri problème" !
